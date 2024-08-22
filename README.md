@@ -1,11 +1,11 @@
 # Bank-Management-CLI
 
-### A simple Bank Management System in C++. It allows users to perform various operations such as:
--  Creating a new account,
--  Depositing money,
--  Withdrawing money,
--  Checking account details,
--  Modifying account information,
--  Viewing all existing accounts &
--  Deleting an account.
+### A simple Bank Management System in C++. Users can -
+-  Creat a new account,
+-  Deposit money,
+-  Withdraw money,
+-  Check account details,
+-  Modify account information,
+-  View all existing accounts &
+-  Delete an account.
 
